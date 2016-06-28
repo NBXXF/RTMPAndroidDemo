@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/live.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/live.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/white_bkg.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/white_bkg.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/face_beauty.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/face_beauty.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/vod.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/vod.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/camera_change.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/camera_change.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/qr_code.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/qr_code.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cache_time.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/cache_time.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/input_box.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/input_box.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/camera_change2.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/camera_change2.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main_tab_2.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/main_tab_2.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/log_show.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/log_show.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main_tab_bkg.jpg",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/main_tab_bkg.jpg"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main_tab_3.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/main_tab_3.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/log_hidden.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/log_hidden.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/black_bkg.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/black_bkg.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/play_pause.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/play_pause.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/play_start.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/play_start.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fix_bitrate.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/fix_bitrate.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/auto_bitrate.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/auto_bitrate.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main_tab_1.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable-xxhdpi/main_tab_1.png"
+    }
+]

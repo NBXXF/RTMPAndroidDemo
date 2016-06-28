@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable/seekbar_progress_drawable.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable/seekbar_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable/play_seekbar_progress.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable/play_seekbar_progress.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable/resolution_radio.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable/resolution_radio.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/drawable/ic_launcher.png"
+    }
+]

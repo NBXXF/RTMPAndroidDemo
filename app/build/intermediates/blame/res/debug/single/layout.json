@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/comment.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/layout/comment.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/activity_qrcode.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/layout/activity_qrcode.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/activity_play.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/layout/activity_play.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/activity_publish.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/layout/activity_publish.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/activity_index.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/layout/activity_index.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/titlebar.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/src/main/res/layout/titlebar.xml"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/layout/merge_camera_preview_view_finder.xml",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/exploded-aar/barcodescanner-core-1.8.4/res/layout/merge_camera_preview_view_finder.xml"
+    }
+]

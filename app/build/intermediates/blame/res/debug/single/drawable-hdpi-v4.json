@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/av_btn_red_press.9.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/exploded-aar/txrtmpsdk/res/drawable-hdpi-v4/av_btn_red_press.9.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/av_btn_red_normal.9.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/exploded-aar/txrtmpsdk/res/drawable-hdpi-v4/av_btn_red_normal.9.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qav_video_loading.png",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/exploded-aar/txrtmpsdk/res/drawable-hdpi-v4/qav_video_loading.png"
+    },
+    {
+        "merged": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/qav_video_bg_s.jpg",
+        "source": "/Users/asange/Public/develop/workspace/RTMPAndroidDemo/app/build/intermediates/exploded-aar/txrtmpsdk/res/drawable-hdpi-v4/qav_video_bg_s.jpg"
+    }
+]
